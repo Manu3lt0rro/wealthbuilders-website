@@ -17,7 +17,7 @@ const Hero = () => {
           backgroundRepeat: 'no-repeat'
         }}
       >
-        <div className="absolute inset-0 bg-gradient-to-r from-white/70 to-white/50"></div>
+        <div className="absolute inset-0 bg-gradient-to-r from-black/70 to-black/50"></div>
       </div>
 
       {/* Content */}
@@ -26,7 +26,7 @@ const Hero = () => {
           {/* Left Column - Text Content */}
           <div className="text-white space-y-8">
             <div className="space-y-4">
-              <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold leading-tight">
+              <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold leading-tight text-white">
                 Build Million-Dollar{' '}
                 <span className="text-gradient">AI Businesses</span>{' '}
                 with Integrity
