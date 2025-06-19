@@ -26,11 +26,13 @@ const Hero = () => {
           {/* Left Column - Text Content */}
           <div className="text-white space-y-2">
             <div className="space-y-4">
-              <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold leading-tight">
-                Build Million-Dollar{' '}
-                <span className="text-gradient">AI Businesses</span>{' '}
-                with Integrity
-              </h1>
+              <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold leading-tight text-white">
+  Build Million-Dollar{' '}
+  <span className="bg-gradient-to-r from-white to-gray-300 bg-clip-text text-transparent">
+    AI Businesses
+  </span>{' '}
+  with Integrity
+</h1>
               
               <p className="text-xl md:text-2xl text-gray-200 leading-relaxed">
                 The FAITH Code system that helps everyday families create wealth through AI - 
