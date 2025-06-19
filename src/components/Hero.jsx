@@ -46,7 +46,7 @@ const Hero = () => {
 
             {/* CTA Buttons */}
             <div className="flex flex-col sm:flex-row gap-4">
-             <a href="/free-trial">
+             <a href="https://www.skool.com/wbu">
   <Button className="btn-primary px-8 py-4 text-lg font-semibold rounded-lg flex items-center gap-2">
     Start Your 7-Day Free Trial
     <ArrowRight size={20} />
