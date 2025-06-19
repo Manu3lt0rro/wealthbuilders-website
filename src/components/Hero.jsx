@@ -24,9 +24,9 @@ const Hero = () => {
       <div className="relative z-10 container mx-auto px-4 py-20">
         <div className="grid lg:grid-cols-2 gap-12 items-center">
           {/* Left Column - Text Content */}
-          <div className="text-white space-y-8">
+          <div className="text-white space-y-2">
             <div className="space-y-4">
-              <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold leading-tight text-white">
+              <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold leading-tight">
                 Build Million-Dollar{' '}
                 <span className="text-gradient">AI Businesses</span>{' '}
                 with Integrity
